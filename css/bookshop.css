@@ -1,0 +1,56 @@
+
+/*===================Search Engine==============================*/
+.navbar-form .form-control {
+    display: inline-block;
+    width: 300px;
+    vertical-align: middle;
+}
+
+/*===================Bootstrap 3==============================*/
+.label-warning {
+    background-color: #FFC107;
+    color : black;
+}
+
+.label-danger {
+    background-color: #DC3545;
+}
+
+.progress-bar-danger {
+      color: #FFF;
+    background-color: #DC3545;
+}
+
+.btn-warning {
+    color: #212529;
+    background-color: #FFC107;
+    border-color: #FFC107;
+}
+
+
+
+
+/*sidebar*/
+.cats {
+  list-style: none;
+  padding: 0;
+}
+
+.cats li b a {
+  display: block;
+  font-size: 15px;
+  padding: 8px 15px;
+  color: black;
+  
+}
+
+.cats li a {
+  display: block;
+  font-size: 15px;
+  padding: 8px 15px;
+  color: grey;
+}
+
+.cats li a:hover {
+  background: #72D0F4;
+  color: white;
